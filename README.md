@@ -12,3 +12,7 @@ A simple C# console application that converts a temperature from Fahrenheit to C
 - C# (.NET)
 - Visual Studio Code
 
+## 💻 How to Run
+1. Clone the repository: `git clone https://github.com/laala/fahrenheittocelsius.git`
+2. Navigate to the folder: `cd fahrenheittocelsius`
+3. Run the application: `dotnet run`
